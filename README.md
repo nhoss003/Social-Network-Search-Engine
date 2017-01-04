@@ -46,6 +46,9 @@ This project consisted of a Java program with the Twitter Streaming API in order
 
 Then I have use Apache Lucene to index tweet files, so that the user can enter a search query into search box and see the results.
 
+
+Visualization
+======================
 The GUI pictures are provided.
 ![Alt text](/UI.png?raw=true "Search box")
 ![Alt text](/UI2.png?raw=true "Results page")
